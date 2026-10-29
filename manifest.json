@@ -1,0 +1,18 @@
+{
+  "name": "Euroline QSC — Tikinti və infrastruktur holdinqi",
+  "short_name": "Euroline QSC",
+  "description": "Azərbaycanın infrastrukturunu birlikdə qururuq.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f4",
+  "theme_color": "#111820",
+  "lang": "az",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

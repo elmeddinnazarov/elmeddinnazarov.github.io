@@ -1,0 +1,10 @@
+<svg width="248" height="48" viewBox="0 0 248 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Euroline QSC">
+  <!-- Placeholder brand mark. Replace with official Euroline logo asset. -->
+  <g>
+    <rect x="0" y="6" width="36" height="36" rx="3" fill="#07579B"/>
+    <path d="M8 15H28V21H15V22H26V27H15V28H28V34H8V15Z" fill="#FFCC00"/>
+  </g>
+  <text x="46" y="27" font-family="Montserrat, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="0.5" fill="#111820">EUROLINE</text>
+  <text x="46" y="41" font-family="Montserrat, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="3.2" fill="#66727C">QSC HOLDING</text>
+  <rect x="46" y="31.5" width="150" height="2" fill="#FFCC00"/>
+</svg>
